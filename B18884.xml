@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposal for the better securing of health. Humbly offered to the consideration of the Honourable Houses of Parliament.</title>
+            <author>Chamberlen, Hugh.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18884</idno><idno type="EEBO-CITATION">99888759</idno>
+  <idno type="VID">203972</idno>
+  <idno type="EEBO-PROQUEST">2248544774</idno>
+  
+            <idno type="STC">Wing C1885</idno>
+            <idno type="STC">Interim Tract Supplement Guide 777.k.16.[21]</idno>
+            <idno type="STC">ESTC R231842</idno>
+            <idno type="PROQUEST">ocm99888759</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888759e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18884)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 203972)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E7:3[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposal for the better securing of health. Humbly offered to the consideration of the Honourable Houses of Parliament.</title>
+                  <author>Chamberlen, Hugh.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Hugh Chamberlen by Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Advertisement at end.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="topical_term">Health promotion --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Health --  Early works to 1800.</term>
+               <term type="topical_term">Mortality --  England --  Early works to 1800.</term>
+               <term type="geographic_name">England --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposal">
+            <pb n="1" facs="tcp:203972:1"/>
+            <head>A PROPOSAL For the better Securing of HEALTH.</head>
+            <head type="sub">Humbly offered to the Consideration of the Honourable Houses of Parliament.</head>
+            <div type="part">
+               <p>THIS last years Bill of Mortality, as well as the many poor Diseased, have given to some a just occasion of Reflect<g ref="char:EOLhyphen"/>ing on the great Numbers which Annually Dye within the City of <hi>London,</hi> and parts adjacent, comprized in the Weekly Bills of Mortality; whereof very many, by Gods Blessing, upon the true Methods of a Skilful, Careful, and Early Application of the Art of Physick, might in all probability have been preserved alive.</p>
+               <p>Therefore, in order to so good and great an End, it is humbly pro<g ref="char:EOLhyphen"/>posed, that a more compleat practical Constitution of Physick ac<g ref="char:EOLhyphen"/>cording to the following Method, may be upon rational Demonstra<g ref="char:EOLhyphen"/>tion Established; whereby Care may be taken, that all Sick, as well Poor as Rich, shall be Advised and Visited, when needful, by Ap<g ref="char:EOLhyphen"/>proved, Skillful Phisicians, and Surgeons; and furnished with necessary Medicines in all Diseases, except the Pox, Midwifry, and Cutting for the Stone; for which three last Calamities, some small Additional Allow<g ref="char:EOLhyphen"/>ance may be setled: Because the Pox may not be hereby encouraged, and Deliveries require mighty Pains, and unseasonable hours; and the Stone is not only a particular Dexterity, but requires much Attendance.</p>
+               <p>And all this, (Except as before Excepted) for a small yearly certain Sum Assessed upon each House, not exceeding <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> for the greatest Family, nor under <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> for the meanest, that are not Objects of Charity: Which respective Sums will not be the third part of what is now spent, only in Apothecaries Bills in a Healthy year. And for this every Individual Person of the Family, as well the Lodger and Servant; as Master, Mistress and Children, shall, when there is occasion, be sufficiently accommodated: Whereas many at present miserably perish without the least Care, and for want of timely and skilful Assistance. In short, It's proposed to serve all the Families, Rich and Poor, Little and Great, within the City and parts adjacent, much better and cheaper than at present, with Visits, Advice, Medi<g ref="char:EOLhyphen"/>cine, and Surgery.</p>
+               <p>It is also further humbly offered, That effectual Care be taken to reform the Practice of Midwifry, according to a Proposal ready to be presented when commanded: And that the Laws already in being may be revised and amended, which provide against the Sale of unwholsome Flesh in the Markets; and that Bread may be well Baked; Wine not Sophisticated; Beer well Brewed; and the Houses and Streets well cleansed from Dirt and Filth: All these being very common causes of Diseases and Death.</p>
+            </div>
+            <div type="part">
+               <pb n="2" facs="tcp:203972:2"/>
+               <head>This Constitution consists of the following Members, more or fewer, as the City Occasions and Necessities may require.</head>
+               <p>First, <hi>Ten Noble Curatores.</hi>
+               </p>
+               <list>
+                  <head>Secondly, <hi>Physicians.</hi>
+                  </head>
+                  <item>One Super-Intendent or President.</item>
+                  <item>Two Sub-Intendents.</item>
+                  <item>Three Senior Heads of the College.</item>
+                  <item>Four Junior Heads.</item>
+                  <item>Fourteen Senior Visitors.</item>
+                  <item>Seven Principal Secretaries.</item>
+                  <item>Fourteen Junior Visitors.</item>
+                  <item>Seven Sub-secretaries.</item>
+                  <item>Forty two Chief Itinerants.</item>
+                  <item>Forty nine Junior Itinerants.</item>
+                  <item>Seven Senior Amanuenses.</item>
+                  <item>Fourteen Junior Amanuenses.</item>
+               </list>
+               <p>In all One hundred sixty four.</p>
+               <p>Of this Number, besides the three Intendents in the Chief College in <hi>Warwick-lane,</hi> there will be Twenty three Physicians more: As also Twenty three in each other the six Colleges. Seven Colleges being thought at present more than sufficient to serve the Bills of Mortality, with Convenience and Ease to the Inhabitants thereof: In each of which Colleges there are as followeth.</p>
+               <list>
+                  <item>One Master, Head or Principal.</item>
+                  <item>Two Senior Visitors.</item>
+                  <item>Two Junior Visitors.</item>
+                  <item>One Principal Secretary.</item>
+                  <item>One Sub-secretary.</item>
+                  <item>Six Senior Itinerants.</item>
+                  <item>Seven Junior Itinerants.</item>
+                  <item>One Senior Amanuensis.</item>
+                  <item>Two Junior Amanuenses.</item>
+               </list>
+               <p>In all Twenty three.</p>
+               <p>The convenient places for the Seven Colleges may be
+<list>
+                     <item>1. The Present College.</item>
+                     <item>2. <hi>Lincolns-Inn-Fields.</hi>
+                     </item>
+                     <item>3. Near <hi>Charing-Cross.</hi>
+                     </item>
+                     <item>4. Near the <hi>Poultry.</hi>
+                     </item>
+                     <item>5. <hi>Southwark</hi> near the Hospital.</item>
+                     <item>6. Near <hi>Bishops-gate.</hi>
+                     </item>
+                     <item>7. In or about <hi>Goodmans-fields.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>Which places are to be published in Print about a Fortnight before the Settlement, that all may know where to apply for help.</p>
+               <list>
+                  <head>Thirdly, <hi>Chyrurgions.</hi>
+                  </head>
+                  <item>One Master.</item>
+                  <item>One Deputy.</item>
+                  <item>Seven Wardens.</item>
+                  <item>Twenty eight Assistants.</item>
+                  <item>Fifty six Mates.</item>
+                  <item>Twenty eight Junior Mates.</item>
+               </list>
+               <p>In all One hundred twenty one.</p>
+               <p>Of this Number, besides the Master and Deputy, at the Chief College, there are Seventeen in each of the Colleges, <hi>viz.</hi>
+               </p>
+               <list>
+                  <item>One Warden.</item>
+                  <item>Four Assistants.</item>
+                  <item>Eight Mates.</item>
+                  <item>Four Junior Mates.</item>
+               </list>
+               <p>In all Seventeen.</p>
+               <p>Some of which, besides Chirurgery, shall practice Midwifry, Cut for the Stone, Reduce Dislocations, And draw Teeth, in each College.</p>
+               <pb n="3" facs="tcp:203972:3"/>
+               <list>
+                  <head>Fourthly, <hi>Apothecaries.</hi>
+                  </head>
+                  <item>One Master.</item>
+                  <item>One Deputy.</item>
+                  <item>Seven Wardens.</item>
+                  <item>Fourteen Assistants.</item>
+                  <item>Forty two Mates.</item>
+                  <item>Forty two Journey-men.</item>
+                  <item>Forty two Sub-Journey-men.</item>
+               </list>
+               <p>In all One hundred forty nine.</p>
+               <p>Of this Number, besides the Master and Deputy at the Chief College, there are Twenty one in each College, <hi>viz.</hi>
+               </p>
+               <list>
+                  <item>One Warden.</item>
+                  <item>Two Assistants.</item>
+                  <item>Six Mates.</item>
+                  <item>Six Journey-men.</item>
+                  <item>Six Sub-Journey-men.</item>
+               </list>
+               <p>In all Twenty one.</p>
+               <p>If the Number of any Exceeds the Inhabitants Necessities, it may be (as they dye out) lessened, by not supplying: But if not sufficient, it may be Augmented.</p>
+            </div>
+            <div type="part">
+               <head>Inducements for this New Establishment of Physick.</head>
+               <p n="1">I. TO preserve Health and save Lives, is always a Publick Good, but more especially in time of War.</p>
+               <p n="2">II. That Medicine is highly useful to those great Ends, is and has been always the general Judgment of Mankind.</p>
+               <p n="3">III. That every Good <hi>Quò Communius eò Melius;</hi> but that as Phy<g ref="char:EOLhyphen"/>sick is now managed, not only the very Poor, but meaner sort of Tradesmen and their Families, Servants, and Misers, deter'd by Physitians Fees, and Apothecaries Bills, have little or no Benefit by Physick.</p>
+               <p n="4">IV. That by these means, together with the want of timely and frequent Visits, many dye yearly that might be preserved; and Epi<g ref="char:EOLhyphen"/>demical and Contagious Distempers arise and are propagated.</p>
+               <p n="5">V. That Physicians and Chirurgions may (and possible many do) having no Check, or Supervisors, for Lucre sake, prolong Cures, to the hazard of Life; and by new Experiments upon their own single Judgment destroy many.</p>
+               <p n="6">VI. That Apothecaries may be careless in their Mixtures, or Un<g ref="char:EOLhyphen"/>skillful; or may Administer things improper or decayed, or tire their Patients with needless and nauseous Medicines for their own Ad<g ref="char:EOLhyphen"/>vantage.</p>
+               <p n="7">VII. Mountebanks, and Cheats in Physick, are found by Expe<g ref="char:EOLhyphen"/>rience, to conduce extreamly to the Ruine of Peoples Healths, and loss oft-times, of their Lives, as well as of their Money.</p>
+               <pb n="4" facs="tcp:203972:4"/>
+               <p n="8">VIII. That by this Constitution all those Ills will be prevented, all will have equal Help and Benefit: all will apply in time, since they may hope for Cure without fear of Charge: Diseases taken early more easily removed: Frequent Visits will be made, which in acute Diseases are most necessary; changes therein being often so great and sudden, that Life is frequently lost for want of a timely Visit. Consultations will be had, when necessary, though of the whole Faculty, in difficult cases: Medicines publickly and faithfully prepared will only be given: And Mountebanks, with such others, will hereby sink of themselves, without Law or Trouble.</p>
+               <p n="9">IX. Nothing will be here Clandestine, that in its own Nature requires not Secrecy. No Mans Ignorance or Negligence can here be prejudicial, for the Constitution directs all, inquires into and Super<g ref="char:EOLhyphen"/>vises all.</p>
+               <p n="10">X. Physick and Chyrurgery will be extreamly improv'd, and in little time, by the multitude of Experiments, recording of Observa<g ref="char:EOLhyphen"/>vations, and mutual candid Assistance of the Members, come near to a Demonstration.</p>
+               <p n="11">XI. The Members of both Houses of Parliament, with their Fa<g ref="char:EOLhyphen"/>milies, not being House-keepers in Town, will be attended <hi>Gratis:</hi> And indeed all the Inhabitants of every House, for the small Rate charged thereon: Visits, Physick, and Chyrurgery therein included.</p>
+               <p n="12">XII. The Advantages of this Constitution may be immediately ex<g ref="char:EOLhyphen"/>tended to the great Benefit both of the Navy and Army.</p>
+               <p n="13">XIII. The Improvement of Health, and Preservation of Life, En<g ref="char:EOLhyphen"/>creases People, and that Augments Consumption, Trade, Power and Wealth. And many Forreigners will repair hither for Remedy, when incurable abroad.</p>
+               <p n="14">XIV. The Proposers are sensible that many Objections will be raised by Prejudice, interest, and for want of a true Information of the Nature, and Tendency of this Constitution; all which they are ready to answer, and hope the Publick Benefit will outweigh all by, and little Ends.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement_and_colophon">
+            <p>☞ There is newly Published a Book, Intituled, The History of the Late Revolution in <hi>England;</hi> With the Causes and Means by which it was Accomplish'd. Together with the Settlement thereof under their most Serene Majesties King <hi>William</hi> and Queen <hi>Mary,</hi> by the Lords and Commons Assembled in this present Parliament. Printed for <hi>Tho. Salusbury</hi> at the Sign of the <hi>Temple</hi> near <hi>Temple-Bar</hi> in <hi>Fleet-street,</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
